@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student advised by Prof. Efstathios Bakolas and Prof. Takashi Tanaka at University of Texas Austin. Previously, I worked with Dr. Satadal Ghosh at Indian Institute of Technology Madras on sampling based motion planning.
+I am a Ph.D. student advised by Prof. Efstathios Bakolas and Prof. Takashi Tanaka at University of Texas Austin. Previously, I worked with Dr. Satadal Ghosh at Indian Institute of Technology Madras on sampling based motion planning algorithms.
 
 
