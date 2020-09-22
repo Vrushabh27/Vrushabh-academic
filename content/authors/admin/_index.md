@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include motion planning and control theory.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Motion Planning
+- Control Theory
+
 
 education:
   courses:
-  - course: B.Tech in Aerospace Engineering
+  - course: Bachelor of Technology in Aerospace Engineering
     institution: Indian Institute of Technology Madras
-    year: 2008
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
