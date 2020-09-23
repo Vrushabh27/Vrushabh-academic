@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-   - course: Ph.D. in Aerospace Engineering
+  - course: Ph.D. in Aerospace Engineering
     institution: University of Texas at Austin
     year: 2025
   - course: Bachelor of Technology in Aerospace Engineering
