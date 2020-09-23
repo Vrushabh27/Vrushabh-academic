@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Aerospace Engineering
     institution: University of Texas at Austin
-    year: 2025
+    year: 2025 (Expected)
   - course: Bachelor of Technology in Aerospace Engineering
     institution: Indian Institute of Technology Madras
     year: 2020
